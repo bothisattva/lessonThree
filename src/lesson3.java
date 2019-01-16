@@ -24,12 +24,11 @@ public class lesson3 {
                     System.out.println("Ваше число меньше");
                 }
             }
-        }
-
+        } 
         System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
          res = scanner.nextInt();
     } while ( res ==1 );
-         
+
 
     }
 }
